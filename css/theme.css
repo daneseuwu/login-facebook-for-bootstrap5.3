@@ -9,7 +9,7 @@
 }
 
 .text-description {
-    
+
     font-weight: normal;
     font-size: 1.3em;
     font-family: "Poppins", sans-serif;
@@ -25,4 +25,10 @@
 
 .btn-success {
     background-color: #42b72a !important;
+}
+
+input::placeholder {
+    color: rgb(190, 186, 186) !important;
+    font-size: 0.8em;
+  
 }
