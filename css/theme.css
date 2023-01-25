@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+
+
+.facebook {
+    font-weight: bold;
+    font-size: 3.5em;
+    font-family:Poppins;
+    color: #1877f2;
+}
+.bg-gray{
+    background-color: #f0f2f5;
+}
+
+.btn-primary {
+    background-color: #1877f2 !important;
+}
+
+.btn-success {
+    background-color: #42b72a !important;
+}
