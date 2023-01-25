@@ -4,10 +4,18 @@
 .facebook {
     font-weight: bold;
     font-size: 3.5em;
-    font-family:Poppins;
+    font-family: "Poppins", sans-serif;
     color: #1877f2;
 }
-.bg-gray{
+
+.text-description {
+    
+    font-weight: normal;
+    font-size: 1.3em;
+    font-family: "Poppins", sans-serif;
+}
+
+.bg-gray {
     background-color: #f0f2f5;
 }
 
